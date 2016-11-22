@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Events</string>
+
+    <string name="description">Descripción</string>
+    <string name="date">Fecha</string>
+    <string name="time">Horario</string>
+    <string name="place">Lugar</string>
+    <string name="price">Costo</string>
+</resources>
